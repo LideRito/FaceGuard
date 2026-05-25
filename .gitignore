@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# Exceeds GitHub 100 MB limit — download separately (see README)
+model/recognition_model/ckpt_model_d/InsightFace_iter_best_710000.ckpt.data-00000-of-00001
+model/shape_predictor_68_face_landmarks.dat
+model/shape_predictor_68_face_landmarks.dat.bz2
+
+# Anonymization workspace — generated at runtime
+workspace/data_src/*.mp4
+workspace/data_src/*.avi
+workspace/data_dst/
+workspace/model/
+
+# Reference face images — user-provided, not for version control
+images/known/
+
+# IDE
+.vscode/
+.idea/
+.VSCodeCounter/
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
