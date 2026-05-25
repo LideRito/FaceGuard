@@ -1,6 +1,6 @@
 # FaceGuard — Deepfake Detection & Face Analysis System
 
-> Originally developed as a team project for the **National College Students' Innovation and Entrepreneurship Training Program (大学生创新创业训练计划)**. As team leader, I was responsible for the overall system architecture and core algorithm integration. The team was awarded the **National First Prize (国家级一等奖)**. The code has been revisited and reorganized in 2026.
+> Originally developed as a team project for the **National College Students' Innovation and Entrepreneurship Training Program**. As team leader, I was responsible for the overall system architecture and core algorithm integration. The team was awarded the **National First Prize**. The code has been revisited and reorganized in 2026.
 
 A desktop application for real-time deepfake detection and face recognition in video files, built with PySide6 and deep learning models running in parallel background threads.
 
